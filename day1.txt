@@ -2,5 +2,4 @@
 My day1 file
 New file2 of new branch
 bye naveen
-
 hello naveen
